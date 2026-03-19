@@ -1,5 +1,5 @@
-# Optimizing Drug/Polymer Combination Predictions Using Machine Learning
-**Team:** Andy Kapoor, Tyler Corazao, & Yiyao Wang
+# Predicting In Vitro Drug Release from PLGA Microparticles Using Machine Learning
+**Authors:** Andy Kapoor, Tyler Corazao, & Yiyao Wang
 
 ---
 ## Repository Structure
