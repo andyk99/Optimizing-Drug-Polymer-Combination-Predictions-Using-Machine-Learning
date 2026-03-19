@@ -1,5 +1,6 @@
 # Optimized Drug/Polymer Combination Prediction Using Machine Learning
 **Team:** Andy Kapoor, Tyler Corazao, & Yiyao Wang
+
 ---
 ## Repository Structure
 ```
